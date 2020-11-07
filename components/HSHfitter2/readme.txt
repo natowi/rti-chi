@@ -24,3 +24,4 @@ Build HSHfitter
 3. Save and Quit
 4. Run make clean; make
 
+Source: http://papij.openhpg.di.uminho.pt/gf/project/hshfitter/scmsvn/
